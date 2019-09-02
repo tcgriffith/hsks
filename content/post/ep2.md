@@ -1,11 +1,12 @@
 ---
-title: "第二集 被诅咒的大家族 解析"
+title: "放送<span style='color:red'>禁</span>止2 被诅咒的大家族"
 date: "2019-08-17"
 author: "水清而深"
 draft: false
-description: "你看到**真相**了吗"
+description: "小水说这集太简单了于是解析跳过…"
 weight: 2
 ---
 
 ## 前言
 
+小水说这集太简单了于是解析跳过…

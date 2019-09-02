@@ -8,10 +8,9 @@
 <header>
 
 <div class="header-bar">
-
   <nav>
     <div class="siteTitle">
-      <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+      <a href="{{ .Site.BaseURL }}">{{ (markdownify .Site.Title) }}</a>
     </div> <!--siteTitle-->
 
 <!--     {{ $currentPage := . }}

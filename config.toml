@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "放送禁止"
+title = "放送<span style='color:red'>禁</span>止 中文解析站"
 copyright = "Copyright (c) 2019, all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
@@ -52,7 +52,7 @@ pygmentsCodeFences = true
 [params.colors]
   # hugo-dusk colors
   background = "#101010" # background color for the site
-  main = "#eb0101"
+  main = "white"
   text = "#dbdbdb"
   code-quote-bg = "#1D1F21" # background color for quotes and code blocks
   copyright = "#404040" # copyright text color

@@ -326,6 +326,7 @@ th, td {
 
 .post-preview {
   text-decoration: none;
+  text-align: right;
 }
 
 .post-preview .title {
