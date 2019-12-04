@@ -1,1 +1,1 @@
-hugo -d docs -b "hsks/"
+hugo -d docs -b "https://tcgriffith.github.io/hsks/"
