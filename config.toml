@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "放送<mark>禁</mark>止 中文解析站"
-copyright = "Copyright (c) 2019, all rights reserved."
+copyright = "All blogs on this site are licensed under CC-BY-NC-SA 3.0"
 languageCode = "en-US"
 canonifyurls = true
 paginate = 20
