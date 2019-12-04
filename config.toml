@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "放送<span style='color:red'>禁</span>止 中文解析站"
+title = "放送<mark>禁</mark>止 中文解析站"
 copyright = "Copyright (c) 2019, all rights reserved."
 languageCode = "en-US"
 canonifyurls = true
