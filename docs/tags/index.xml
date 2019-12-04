@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 放送&lt;mark&gt;禁&lt;/mark&gt;止 中文解析站</title>
-    <link>/hsks/tags/</link>
+    <link>https://tcgriffith.github.io/hsks/tags/</link>
     <description>Recent content in Tags on 放送&lt;mark&gt;禁&lt;/mark&gt;止 中文解析站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2019, all rights reserved.</copyright>
     
-	<atom:link href="/hsks/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tcgriffith.github.io/hsks/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
