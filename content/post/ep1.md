@@ -1,7 +1,9 @@
 ---
-title: "放送<span style='color:red'>禁</span>止1 狂人之宴"
+title: "放送<mark>禁</mark>止1 狂人之宴"
 date: "2019-08-17"
-author: "水清而深，疾了个风"
+author: 
+    - 水清而深
+    - 疾了个风
 draft: false
 description: "一切都从四个年轻人作死的探险开始"
 weight: 1
@@ -14,7 +16,7 @@ weight: 1
 
 ## 人物
 
-摄制组：女记者佐伯圆，导演津田彻，摄像师远藤政幸
+摄制组：女记者佐伯圆，导演津田彻，摄像师<mark>远藤政幸</mark>
 
 失踪者：大桥直哉 福田亮一 佐藤真奈美 前田利佳子
 
@@ -79,7 +81,7 @@ weight: 1
 
 而真相是否如此，我们也无法从画面中得到真正的答案。科学线的模糊不清与细思极恐正是《放送禁止》系列的魅力之一。
 
-<span style='color:red'>你看到真相了吗？</span>
+<mark>你看到真相了吗？</mark>
 
 
 
@@ -103,6 +105,6 @@ P.S
 
 ## 资料
 
-水清的豆瓣原文 https://movie.douban.com/review/10416313/
+- 水清的豆瓣原文 https://movie.douban.com/review/10416313/
 
- https://mattari-cinema.entacafe.com/horror_eiga/hosokinshi_tv_1ex/
+- https://mattari-cinema.entacafe.com/horror_eiga/hosokinshi_tv_1ex/

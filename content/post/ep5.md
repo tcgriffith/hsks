@@ -1,5 +1,5 @@
 ---
-title: "放送<span style='color:red'>禁</span>止5 诗人之村"
+title: "放送<mark>禁</mark>止5 诗人之村"
 date: "2019-08-17"
 author: ""
 draft: false
@@ -110,7 +110,7 @@ HANIKO第二次选择自杀是因为S意外丧命的刺激。为什么遭受多�
 
 结尾的影片还记录了夫妇将诗人从桥上推下，成功复仇。
 
-<span style='color:red'>你看到真相了吗？</span>
+<mark>你看到真相了吗？</mark>
 
 
 P.S. 

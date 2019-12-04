@@ -1,5 +1,5 @@
 ---
-title: "放送<span style='color:red'>禁</span>止2 被诅咒的大家族"
+title: "放送<mark>禁</mark>止2 被诅咒的大家族"
 date: "2019-08-17"
 author: "疾了个风"
 draft: false

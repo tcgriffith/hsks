@@ -1,5 +1,5 @@
 ---
-title: "放送<span style='color:red'>禁</span>止4 恐怖的邻里纠纷"
+title: "放送<mark>禁</mark>止4 恐怖的邻里纠纷"
 date: "2019-08-17"
 author: "水清而深"
 draft: false
