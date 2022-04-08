@@ -57,3 +57,8 @@ pygmentsCodeFences = true
   text = "#dbdbdb"
   code-quote-bg = "#1D1F21" # background color for quotes and code blocks
   copyright = "#404040" # copyright text color
+
+[markup.goldmark.renderer]
+  hardWraps = false
+  unsafe = true
+  xhtml = false
