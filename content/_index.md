@@ -2,9 +2,3 @@
 title: "main"
 ---
 
-> 自从了解到这个系列就一直蠢蠢欲动，决定和朋友翻译整个系列让大家都能享受解密的乐趣。在线版本请移步第一弹，以下是我们结合各种解析分析出来的真相解明，不代表最终解析，欢迎大家一起讨论。（by 水清而深)
-
-
-> 补个备用地址
-> URL1: (Github pages) https://tcgriffith.github.io/hsks/
-URL2: (Netlify) https://fsjz.netlify.com/

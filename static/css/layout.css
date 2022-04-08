@@ -21,6 +21,13 @@ mark{
   font-size: 1.0em;
 }
 
+.dark{
+  color: darkslategray;
+  background-color: inherit;
+  font-weight: bold;
+  font-size: 1.0em;
+}
+
 del{
   color: white;
   background-color: white;
