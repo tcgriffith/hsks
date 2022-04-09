@@ -37,12 +37,12 @@ toc: true
 
 |分集    |在线  |网盘 |
 |:----|:----|:-----|
-|01 狂人之宴|[BILIBILI](https://www.bilibili.com/video/av69174903)|[网盘](https://pan.baidu.com/s/1kORCNCwuoEKZzILAGX7YGQ) qr5x|
-|02 被诅咒的大家庭||[网盘](https://pan.baidu.com/s/1ZXkdXOu7Yllgu5oWL0ndfw) bp3e|
-|03 跟踪狂地狱编||[网盘](https://pan.baidu.com/s/1dT9-u-VboHPZb26vE1uV0g) q05k|
-|04 恐怖的邻里纠纷||[网盘](https://pan.baidu.com/s/1oFN9P9unvHtc5iDDBcs4jg) sfqz |
-|05 诗人之村||[网盘](https://pan.baidu.com/s/1cGNkyOsz5nAThhMTUN0htA) bv6x|
-|06 DEATH LIMIT||[网盘](https://pan.baidu.com/s/1aT40iuyAEKr7UNG8UyVt4w) 7h6u|
+|01 狂人之宴|[Bilibili](https://www.bilibili.com/video/av69174903)|[网盘](https://pan.baidu.com/s/1kORCNCwuoEKZzILAGX7YGQ) qr5x|
+|02 被诅咒的大家庭|[Bilibili](https://www.bilibili.com/video/BV1gU4y1o7ys)|[网盘](https://pan.baidu.com/s/1ZXkdXOu7Yllgu5oWL0ndfw) bp3e|
+|03 跟踪狂地狱编|[Bilibili](https://www.bilibili.com/video/BV1f44y1N7hU)|[网盘](https://pan.baidu.com/s/1dT9-u-VboHPZb26vE1uV0g) q05k|
+|04 恐怖的邻里纠纷|[Bilibili](https://www.bilibili.com/video/BV14Y4y1s7be)|[网盘](https://pan.baidu.com/s/1oFN9P9unvHtc5iDDBcs4jg) sfqz |
+|05 诗人之村|[Bilibili](https://www.bilibili.com/video/BV1QY4y1i7se)|[网盘](https://pan.baidu.com/s/1cGNkyOsz5nAThhMTUN0htA) bv6x|
+|06 DEATH LIMIT|[Bilibili](https://www.bilibili.com/video/BV1n34y1b7rU)|[网盘](https://pan.baidu.com/s/1aT40iuyAEKr7UNG8UyVt4w) 7h6u|
 |07 人情食堂||[网盘](https://pan.baidu.com/s/1uFbRLYgRbdFJGQ429vIVzw) n2g2|
 |剧场版1 密着68日复仇执行人||[网盘](https://pan.baidu.com/s/12UkfjhlmJt8THCXmnhKBQw) pl1l|
 |剧场版2 大家族||[网盘](https://pan.baidu.com/s/1EYhgOcZ395Lys7WyihwIyA) r7mq |
